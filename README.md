@@ -4,9 +4,9 @@ I'm a <code>**Mobile Developer**</code> who is passionate about making <code>**M
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ifan_rev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ifan_rev)](https://twitter.com/ifan_rev) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-maulana-632606201/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/irfan.rev/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:irfan.resimen.2018@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Ifan_rev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ifan_rev)](https://twitter.com/ifan_rev) [![Linkedin Badge](https://img.shields.io/badge/-Irfan_Maulana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-maulana-632606201/) [![Mail Badge](https://img.shields.io/badge/-@irfan.rev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/irfan.rev/) [![Mail Badge](https://img.shields.io/badge/-irfan.resimen2018-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:irfan.resimen.2018@gmail.com)
 
-<!-- TODO: Add last video link -->
+
 
 - 🔭 I’m currently working at @Toptal
 - :desktop_computer: Most used line of code `git commit -m "Initial Commit"`
@@ -49,8 +49,6 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
-```
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
