@@ -8,7 +8,7 @@ I'm a <code>**Mobile Developer**</code> who is passionate about making <code>**M
 
 
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at KodeV Karawang
 - :desktop_computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: irfan.resimen2018@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
