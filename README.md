@@ -11,7 +11,7 @@ I'm a <code>**Mobile Developer**</code> who is passionate about making <code>**M
 - 🔭 I’m currently working at KodeV Karawang
 - :desktop_computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: irfan.resimen2018@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and Music.
 
 
 
@@ -43,11 +43,11 @@ I'm a <code>**Mobile Developer**</code> who is passionate about making <code>**M
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why SukaCode instagram @irfan.rev exists!
 
 #### What is CoderOne?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+SukaCode is a platform for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 
 #### Github Stats
