@@ -45,7 +45,7 @@ I'm a <code>**Mobile Developer**</code> who is passionate about making <code>**M
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why SukaCode instagram @irfan.rev exists!
 
-#### What is CoderOne?
+#### What is SukaCode?
 
 SukaCode is a platform for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
