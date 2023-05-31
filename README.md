@@ -4,11 +4,11 @@ I'm a <code>**Mobile Developer**</code> who is passionate about making <code>**M
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ifan_rev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ifan_rev)](https://twitter.com/ifan_rev) [![Linkedin Badge](https://img.shields.io/badge/-Irfan_Maulana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-maulana-632606201/) [![Mail Badge](https://img.shields.io/badge/-@irfan.rev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/irfan.rev/) [![Mail Badge](https://img.shields.io/badge/-irfan.resimen2018-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:irfan.resimen.2018@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@irfanmln30-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/irfanmln30)](https://twitter.com/ifan_rev) [![Linkedin Badge](https://img.shields.io/badge/-Irfan_Maulana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-maulana-632606201/) [![Mail Badge](https://img.shields.io/badge/-@irfan.rev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/irfan.rev/) [![Mail Badge](https://img.shields.io/badge/-irfan.resimen2018-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:irfan.resimen.2018@gmail.com)
 
 
 
-- 🔭 I’m currently working at KodeV Karawang
+- 🔭 I’m currently Lead Google Developer Student Clubs Chapter Unsika 2022-23
 - :desktop_computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: irfan.resimen2018@gmail.com.
 - ⚡ Fun fact: I play games and Music.
