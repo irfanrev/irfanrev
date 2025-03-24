@@ -8,7 +8,7 @@ I'm a <code>**Mobile Developer**</code> who is passionate about making <code>**M
 
 
 
-- 🔭 I’m currently Lead Google Developer Student Clubs Chapter Unsika 2022-23
+- 🔭 I’m currently Mobile Engineer at PT. Indonesia Satu Tujuh Group
 - :desktop_computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: irfan.resimen2018@gmail.com.
 - ⚡ Fun fact: I play games and Music.
