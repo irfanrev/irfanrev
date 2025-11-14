@@ -1,6 +1,6 @@
 ## Hi I'm Irfan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a <code>**Mobile Engineer**</code> who is passionate about making <code>**Mobile Apps**</code> with <code>**Kotlin, Swift**</code> or <code>**Flutter**</code>. Creating <code>**Mobile Apps**</code> for giving contribute technology which in Indonesia and building forum for develop project <code>**Mobile Apps**</code> or any platform. Some technology i enjoy working with include <code>**Flutter**</code>, <code>**Jetpack Compose**</code>, code>**SwiftUI**</code> and <code>**Laravel**</code>.
+I'm a <code>**Mobile Engineer**</code> who is passionate about making <code>**Mobile Apps**</code> with <code>**Kotlin, Swift**</code> or <code>**Flutter**</code>. Creating <code>**Mobile Apps**</code> for giving contribute technology which in Indonesia and building forum for develop project <code>**Mobile Apps**</code> or any platform. Some technology i enjoy working with include <code>**Jetpack Compose**</code>, <code>**SwiftUI**</code> <code>**Flutter**</code> and <code>**Laravel**</code>.
 
 :mailbox: Reach me out!
 
